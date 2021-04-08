@@ -3,7 +3,7 @@
 
 1. Read the wonderful [_gitStarted Guide_](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) by [@wanraitelli](https://github.com/wanraitelli).
 
-2. On the [GitHub page for this repository](https://github.com/zero-to-mastery/start-here-guidelines), click on the Button "Fork".
+2. On the [GitHub page for this repository](https://github.com/inter-camp/start-here-guides), click on the Button "Fork".
 
    ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
