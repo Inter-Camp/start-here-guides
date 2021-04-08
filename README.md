@@ -1,4 +1,7 @@
 # start-here-guides
+
+1. Read [_Contributing file_](https://github.com/Inter-Camp/start-here-guides/blob/main/Contributing.md), that explains how to work on the project.
+
 ## A Guide to Get Started
 
 1. Read the wonderful [_gitStarted Guide_](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) by [@wanraitelli](https://github.com/wanraitelli).
