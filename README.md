@@ -1,6 +1,6 @@
 # start-here-guides
 
-1. Read [_Contributing file_](https://github.com/Inter-Camp/start-here-guides/blob/main/Contributing.md), that explains how to work on the project.
+1. Read [_Contributing file_](https://github.com/Inter-Camp/InterCamp/blob/master/CONTRIBUTING.md), that explains how to work on the project.
 
 ## A Guide to Get Started
 
